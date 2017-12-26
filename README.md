@@ -1,2 +1,2 @@
 # hello-world
-siple hello world application usng react js
+simple hello world application usng react js
